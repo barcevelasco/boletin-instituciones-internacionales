@@ -1,4 +1,4 @@
-# Boletín Mensual de Instituciones Internacionales
+# Boletín de Instituciones Internacionales
 
 Este proyecto extrae, procesa y organiza publicaciones recientes de instituciones internacionales relevantes para la banca central y el análisis económico. Genera un boletín mensual en formato Word y ofrece una interfaz web interactiva para consultar y filtrar los documentos.
 
@@ -44,8 +44,8 @@ Instalación y uso
 Clona el repositorio:
 
 bash
-git clone https://github.com/barcevelasco/Bolet-n-Mensual-Actualizado.git
-cd Bolet-n-Mensual-Actualizado
+git clone https://github.com/barcevelasco/boletin-instituciones-internacionales.git
+cd boletin-instituciones-internacionales
 Instala las dependencias:
 
 bash
